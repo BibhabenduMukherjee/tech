@@ -3,6 +3,6 @@ using namespace std;
 
 int main(){
 
-    cout << "This is git";
+    cout << "This is second commit code cpp";
     return 0;
 }
